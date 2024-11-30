@@ -1,6 +1,4 @@
 
-Python libraries used in the EDA project :
-
 pandas
 numpy
 matplotlib
